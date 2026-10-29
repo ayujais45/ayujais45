@@ -118,17 +118,6 @@ An academic project exploring how blockchain technology can support transparent 
 
 ---
 
-## 📚 Currently Learning
-
-- ☁️ AWS cloud services and infrastructure fundamentals.
-- 🔐 Cybersecurity concepts, network security, and threat analysis.
-- 📊 SQL, ETL/ELT workflows, and cloud data engineering fundamentals.
-- ⚡ PySpark and distributed data processing concepts.
-- 🐧 Linux fundamentals and command-line operations.
-
-My goal is to connect my knowledge of cloud infrastructure, security, and data systems to develop a broader understanding of modern IT environments.
-
----
 
 ## 🎓 Education
 
@@ -141,19 +130,6 @@ Bachelor of Technology — Computer Science Engineering
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayujais45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayushi's GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayujais45&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=ayujais45&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
